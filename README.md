@@ -1,6 +1,6 @@
 # Manual Operacional — ZEDCAM (Museu do Futebol)
 
-> Uso interno | Operação do sistema (sem código-fonte)
+> Uso interno | Operação do sistema 
 
 ## 1) Visão geral
 
